@@ -1,3 +1,1 @@
 1
-1 = undetected
-2 = detected
